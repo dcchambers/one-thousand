@@ -1,1 +1,5 @@
+#Grab the prologue jekyll theme from chrisbobbe's repo.
 remote_theme: chrisbobbe/jekyll-theme-prologue
+
+collections: [sections]
+
